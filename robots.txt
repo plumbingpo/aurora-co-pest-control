@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aurorapestcontrolco.com/sitemap.xml
